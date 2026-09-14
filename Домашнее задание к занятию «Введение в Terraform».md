@@ -18,10 +18,11 @@
    <img width="716" height="413" alt="image" src="https://github.com/user-attachments/assets/0a6e818d-c904-4ee1-9ecd-e06e4ad1d56e" />
 
 6. При -auto-approve оператору не требуется подтверждать изменения, которые terraform внесет в инфраструктуру, что влечет за собой некорректное изменение инфраструктуры в случае, если в коде допущена какая-то архитектурная ошибка, например, случайно удалена нужная ВМ.
-   Этот ключ может быть полезен в процессе тестирования, чтобы ускорить процесс создания инфраструктуры. Для автоматизации, когда предполагается, изменения должны применяться без участия человека.  
+   Этот ключ может быть полезен в процессе тестирования, чтобы ускорить процесс создания инфраструктуры. Для автоматизации, когда предполагается, изменения должны применяться без участия человека.
+   
    <img width="1209" height="196" alt="image" src="https://github.com/user-attachments/assets/9aa49c7c-f9d4-450c-815d-190a183c5539" />
 
-7. terraform.tfstate
+8. terraform.tfstate  
    <img width="794" height="263" alt="image" src="https://github.com/user-attachments/assets/dbb81ad7-9a1e-4143-bd6e-97cee71110b1" />
 
    Контейнер удален  
@@ -30,7 +31,7 @@
    Образ nginx:latest  
    <img width="1128" height="114" alt="image" src="https://github.com/user-attachments/assets/76e88663-8794-4283-abb7-394968875060" />
 
-8. Потому что при создании этого ресурса был задан аргумент keep_locally = true  
+9. Потому что при создании этого ресурса был задан аргумент keep_locally = true  
    <img width="511" height="123" alt="image" src="https://github.com/user-attachments/assets/47bbac1d-7520-44d3-8a89-36dfb1792be4" />
    <img width="1122" height="73" alt="image" src="https://github.com/user-attachments/assets/f932990e-2cc4-4e8e-b242-b21d1f2b59a7" />
 
