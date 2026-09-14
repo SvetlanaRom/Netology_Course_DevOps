@@ -13,7 +13,8 @@
    Ошибки исправлены  
    <img width="764" height="73" alt="image" src="https://github.com/user-attachments/assets/5e1199b7-39f2-4a88-9ffd-d486aab69e0c" />
 
-5. <img width="1222" height="136" alt="image" src="https://github.com/user-attachments/assets/92bd8cb8-c22b-4ab0-9c03-6b8cc5804247" />
+5. исправленный фрагмент кода и вывод команды docker ps  
+   <img width="1222" height="136" alt="image" src="https://github.com/user-attachments/assets/92bd8cb8-c22b-4ab0-9c03-6b8cc5804247" />
    <img width="716" height="413" alt="image" src="https://github.com/user-attachments/assets/0a6e818d-c904-4ee1-9ecd-e06e4ad1d56e" />
 
 6. При -auto-approve оператору не требуется подтверждать изменения, которые terraform внесет в инфраструктуру, что влечет за собой некорректное изменение инфраструктуры в случае, если в коде допущена какая-то архитектурная ошибка, например, случайно удалена нужная ВМ.
