@@ -59,6 +59,7 @@
 6. Проверка наличия переменных
    <img width="915" height="473" alt="image" src="https://github.com/user-attachments/assets/afc353ee-4b7b-4b05-ba86-9ed9b7cae5ce" />
 
+   Ссылка на итоговый код: https://github.com/SvetlanaRom/Netology_Course_DevOps/blob/8d703aaa95e2b6fd3d84c715627289ac6a8e8f4b/terraform/hw1/main.tf
    
    
 
