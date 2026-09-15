@@ -48,6 +48,8 @@
 
    <img width="357" height="91" alt="image" src="https://github.com/user-attachments/assets/484d31e0-3a5d-466d-b050-38dc4d6d017e" />
 
+   <img width="1185" height="133" alt="image" src="https://github.com/user-attachments/assets/92e698c0-3458-41b8-956a-bf793ab101d9" />
+
    Еще потребовалось пользователя в группу docker добавить  
    <img width="1006" height="30" alt="image" src="https://github.com/user-attachments/assets/6a2c9039-5bf5-4817-a74a-16c5a7588d0b" />
 
