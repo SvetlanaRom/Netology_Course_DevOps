@@ -53,7 +53,13 @@
    Еще потребовалось пользователя в группу docker добавить  
    <img width="1006" height="30" alt="image" src="https://github.com/user-attachments/assets/6a2c9039-5bf5-4817-a74a-16c5a7588d0b" />
 
-5. 
+5. Запуск terraform с новым конфигом
+   <img width="1215" height="681" alt="image" src="https://github.com/user-attachments/assets/3df195e6-28f8-46b3-9670-62ea91dd703b" />
+
+6. Проверка наличия переменных
+   <img width="915" height="473" alt="image" src="https://github.com/user-attachments/assets/afc353ee-4b7b-4b05-ba86-9ed9b7cae5ce" />
+
+   
    
 
 
