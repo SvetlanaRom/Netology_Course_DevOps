@@ -40,7 +40,7 @@
 1. Создана ВМ
    <img width="1793" height="115" alt="image" src="https://github.com/user-attachments/assets/cff5d8f5-9a62-4ca7-8e19-bc1ca60955e3" />
 
-2. docker установлен
+2. docker установлен  
    <img width="839" height="732" alt="image" src="https://github.com/user-attachments/assets/eebf31f7-e86f-45ef-a0f5-aed496beff72" />
 
 3. Подключение к удаленному хосту  
