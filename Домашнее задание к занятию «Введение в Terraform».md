@@ -43,12 +43,15 @@
 2. docker установлен
    <img width="839" height="732" alt="image" src="https://github.com/user-attachments/assets/eebf31f7-e86f-45ef-a0f5-aed496beff72" />
 
-3. Подключение к удаленному хосту
+3. Подключение к удаленному хосту  
    <img width="1227" height="139" alt="image" src="https://github.com/user-attachments/assets/3eb8b6ec-debc-49ce-9225-d9b70d567a1a" />
 
    <img width="357" height="91" alt="image" src="https://github.com/user-attachments/assets/484d31e0-3a5d-466d-b050-38dc4d6d017e" />
 
-4. 
+   Еще потребовалось пользователя в группу docker добавить  
+   <img width="1006" height="30" alt="image" src="https://github.com/user-attachments/assets/6a2c9039-5bf5-4817-a74a-16c5a7588d0b" />
+
+5. 
    
 
 
