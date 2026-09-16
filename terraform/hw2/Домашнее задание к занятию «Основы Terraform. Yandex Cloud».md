@@ -1,6 +1,6 @@
 # Задание 1
 
-2. Создан токен
+2. Создан токен  
    <img width="762" height="25" alt="image" src="https://github.com/user-attachments/assets/234064a1-f13b-490b-9724-6092d92b358f" />
 
 3. Добавлен публичный ключ  
