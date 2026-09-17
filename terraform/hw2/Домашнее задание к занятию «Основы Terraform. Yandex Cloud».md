@@ -128,6 +128,18 @@
 4. interpolation-выражение  
    <img width="1267" height="135" alt="image" src="https://github.com/user-attachments/assets/2e4b552f-d241-44e6-bbe8-a857ed889ce0" />
 
+# Задание 8
+
+1. Переменная test  
+   <img width="266" height="108" alt="image" src="https://github.com/user-attachments/assets/344676d4-3a9f-4069-8875-138e9c0cac4f" />  
+   <img width="860" height="654" alt="image" src="https://github.com/user-attachments/assets/01f0ca17-832e-4b10-9aef-def8db67800b" />  
+   <img width="755" height="577" alt="image" src="https://github.com/user-attachments/assets/4da146e8-fe06-4285-b92d-fd47f2b74b32" />  
+
+2. Выражение, чтобы вычленить строку "ssh -o 'StrictHostKeyChecking=no' ubuntu@62.84.124.117"  
+   <img width="642" height="64" alt="image" src="https://github.com/user-attachments/assets/5e869111-a6d8-4545-abad-b2a13f919896" />
+
+# Задание 9
+
 
 
 
