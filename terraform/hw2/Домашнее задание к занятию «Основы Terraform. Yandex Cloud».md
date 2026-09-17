@@ -35,17 +35,49 @@
 
 # Задание 2
 1. Замена хардкор-значений на переменные  
-   <img width="471" height="95" alt="image" src="https://github.com/user-attachments/assets/e2356d62-c441-46c9-9e6c-dc36b9a57ea2" />
-   <img width="995" height="783" alt="image" src="https://github.com/user-attachments/assets/f3249221-10b6-4384-93c9-e240235f4360" />
+   <img width="471" height="95" alt="image" src="https://github.com/user-attachments/assets/e2356d62-c441-46c9-9e6c-dc36b9a57ea2" />  
+   <img width="995" height="783" alt="image" src="https://github.com/user-attachments/assets/f3249221-10b6-4384-93c9-e240235f4360" />  
 
 2. Объявление переменных  
-   <img width="582" height="776" alt="image" src="https://github.com/user-attachments/assets/81d92f96-1636-4784-87ef-d8aa91e50290" />
-   <img width="589" height="673" alt="image" src="https://github.com/user-attachments/assets/f05736f9-4308-4cc7-8e1e-3b3d9146a526" />
+   <img width="582" height="776" alt="image" src="https://github.com/user-attachments/assets/81d92f96-1636-4784-87ef-d8aa91e50290" />  
+   <img width="589" height="673" alt="image" src="https://github.com/user-attachments/assets/f05736f9-4308-4cc7-8e1e-3b3d9146a526" />  
    
 3. terraform plan  
-   <img width="1204" height="291" alt="image" src="https://github.com/user-attachments/assets/7888300d-b59c-4ba1-b815-7c22f373d586" />
+   <img width="1204" height="291" alt="image" src="https://github.com/user-attachments/assets/7888300d-b59c-4ba1-b815-7c22f373d586" />  
 
 # Задание 3
+
+1. Переменные в новом файле  
+   <img width="519" height="518" alt="image" src="https://github.com/user-attachments/assets/604a4954-61be-47ac-9ce6-2ef9c8d4668c" />  
+   <img width="947" height="696" alt="image" src="https://github.com/user-attachments/assets/4e8cfffd-8be0-4969-bfbd-aad403c1cebc" />  
+   <img width="713" height="603" alt="image" src="https://github.com/user-attachments/assets/2041e738-2a66-40ca-8ce5-6c9c39d60696" />  
+   <img width="651" height="694" alt="image" src="https://github.com/user-attachments/assets/bf3507fe-d76c-49ac-9513-1301e69ea91d" />  
+   <img width="1064" height="782" alt="image" src="https://github.com/user-attachments/assets/4f08d2f0-690f-4573-86f5-c9b0c232f1b0" />  
+   <img width="575" height="509" alt="image" src="https://github.com/user-attachments/assets/40b7d8a9-305e-46e6-9367-ca196b78272d" />
+
+2. Новые ресурсы
+   <img width="620" height="176" alt="image" src="https://github.com/user-attachments/assets/9d3ad7dd-6cf2-473b-aac7-e9a3a037e09f" />
+   <img width="995" height="807" alt="image" src="https://github.com/user-attachments/assets/c50c32f1-60bd-47dd-b2bc-3d316f8f7909" />
+
+3. Применение изменений
+   <img width="1007" height="412" alt="image" src="https://github.com/user-attachments/assets/d1eff7fc-cb57-42cf-b6e6-93ec52a566d1" />
+
+   Сеть с подсетями
+   <img width="1063" height="624" alt="image" src="https://github.com/user-attachments/assets/392f5ec0-8e59-4439-9bfe-19a9c7d91eb4" />
+
+   ВМ
+   <img width="2249" height="217" alt="image" src="https://github.com/user-attachments/assets/28514c0c-ee9d-4ea7-8da1-72513158b1ff" />
+
+# Задание 4
+
+
+
+
+   
+
+
+   
+
 
 
 
