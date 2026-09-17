@@ -152,7 +152,7 @@ P.S. Я еще наткнулась на багу от Яндекс Облака
 
 <img width="753" height="470" alt="image" src="https://github.com/user-attachments/assets/daec8e9a-5706-4fd6-818c-c54237130d48" />  
 
-После выполнения terraform refresh в uotputs стала отображаться корректная информация  
+После выполнения terraform refresh в outputs стала отображаться корректная информация  
 <img width="724" height="437" alt="image" src="https://github.com/user-attachments/assets/7496e02f-7c50-40dc-a35f-60b96b61b050" />
 
 
