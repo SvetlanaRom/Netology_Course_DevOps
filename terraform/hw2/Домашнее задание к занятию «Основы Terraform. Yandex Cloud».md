@@ -70,6 +70,16 @@
 
 # Задание 4
 
+1. output
+   <img width="1011" height="496" alt="image" src="https://github.com/user-attachments/assets/ccc021b3-30fe-4297-ae94-608ce8388014" />  
+
+2. terraform apply  
+   <img width="691" height="413" alt="image" src="https://github.com/user-attachments/assets/9871f7ad-1180-4b0f-9cec-779ab881980f" />  
+
+   terraform output  
+   <img width="709" height="392" alt="image" src="https://github.com/user-attachments/assets/4f342ffd-3400-43e5-ab19-570b6978f19d" />  
+
+
 
 
 
