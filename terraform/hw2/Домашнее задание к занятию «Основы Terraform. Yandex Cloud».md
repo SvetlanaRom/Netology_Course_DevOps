@@ -79,6 +79,23 @@
    terraform output  
    <img width="709" height="392" alt="image" src="https://github.com/user-attachments/assets/4f342ffd-3400-43e5-ab19-570b6978f19d" />  
 
+# Задание 5
+
+1. locals
+   <img width="671" height="124" alt="image" src="https://github.com/user-attachments/assets/36ff5562-bb20-443e-8de2-29dc47365073" />
+
+2. Смена переменных на local-переменные  
+   <img width="594" height="100" alt="image" src="https://github.com/user-attachments/assets/257f23b8-a451-4b68-a656-84d9d2cedf74" />
+   <img width="569" height="98" alt="image" src="https://github.com/user-attachments/assets/2e3c210a-4522-45ec-94e4-06e793969a4d" />  
+
+3. Применение изменений  
+   <img width="1042" height="422" alt="image" src="https://github.com/user-attachments/assets/c4daa0bb-15dc-48d4-aa6b-565cf44dbd5b" />
+   <img width="1160" height="213" alt="image" src="https://github.com/user-attachments/assets/58564103-69c1-4a86-9ca7-fc31469d95dc" />
+
+# Задание 6
+
+
+
 
 
 
