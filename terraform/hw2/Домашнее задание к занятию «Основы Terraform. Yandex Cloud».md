@@ -94,7 +94,17 @@
 
 # Задание 6
 
+1. Одна переменная для ресурсов
+   <img width="452" height="600" alt="image" src="https://github.com/user-attachments/assets/2bf1d2aa-feaa-46a4-b1f2-5e5fb4814081" />
+   <img width="743" height="231" alt="image" src="https://github.com/user-attachments/assets/33f1e936-d703-4ba1-b947-7c2e0c97f6ff" />
+   <img width="713" height="230" alt="image" src="https://github.com/user-attachments/assets/5c5e62ae-744e-4d73-a258-8583da0a7e15" />
+   
+2. Одна переменная для метаданных  
+   <img width="544" height="402" alt="image" src="https://github.com/user-attachments/assets/3fcd6e76-aad8-4538-9d3f-47bae119f0ef" />  
+   <img width="1209" height="218" alt="image" src="https://github.com/user-attachments/assets/b7d484e4-dcd5-4a93-8f1f-94887c74826c" />  
+   <img width="1184" height="175" alt="image" src="https://github.com/user-attachments/assets/8b010a41-bd51-4768-8d37-afb542996059" />  
 
+3. 
 
 
 
