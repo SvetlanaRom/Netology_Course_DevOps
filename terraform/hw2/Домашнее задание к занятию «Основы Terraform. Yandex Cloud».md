@@ -48,7 +48,7 @@
 # Задание 3
 
 1. Переменные в новом файле  
-   <img width="519" height="518" alt="image" src="https://github.com/user-attachments/assets/604a4954-61be-47ac-9ce6-2ef9c8d4668c" />  
+   <img width="522" height="552" alt="image" src="https://github.com/user-attachments/assets/2892f1d0-5eb4-4ad2-ac7d-53a6a08b6aa3" />  
    <img width="947" height="696" alt="image" src="https://github.com/user-attachments/assets/4e8cfffd-8be0-4969-bfbd-aad403c1cebc" />  
    <img width="713" height="603" alt="image" src="https://github.com/user-attachments/assets/2041e738-2a66-40ca-8ce5-6c9c39d60696" />  
    <img width="651" height="694" alt="image" src="https://github.com/user-attachments/assets/bf3507fe-d76c-49ac-9513-1301e69ea91d" />  
