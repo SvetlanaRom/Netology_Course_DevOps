@@ -149,6 +149,7 @@
 <img width="1160" height="213" alt="image" src="https://github.com/user-attachments/assets/d1552c7b-fb96-410e-867d-8103f9e16f29" />  
 
 P.S. Я еще наткнулась на багу от Яндекс Облака. После настройки NAT-шлюза и отключения внешнего IP адреса (nat=false) у ВМ выполнила terraform apply, но в outputs все равно продолжала видеть внешние ip. Гугл мне подсказал, что это известная бага официального провайдера Яндекс Облака для Terraform (Yandex Cloud provider). Когда в коде удаляется параметр nat = true, провайдер успешно отключает внешний IP у самой виртуалки в облаке, но забывает очистить поле nat_ip_address внутри локального файла terraform.tfstate. Terraform продолжает думать, что этот адрес там есть, и выводит его в outputs.  
+  
 После выполнения terraform refresh в uotputs стала отображаться корректная информация  
 <img width="724" height="437" alt="image" src="https://github.com/user-attachments/assets/7496e02f-7c50-40dc-a35f-60b96b61b050" />
 
