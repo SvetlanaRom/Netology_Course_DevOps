@@ -55,7 +55,7 @@
    <img width="1064" height="782" alt="image" src="https://github.com/user-attachments/assets/4f08d2f0-690f-4573-86f5-c9b0c232f1b0" />  
    <img width="575" height="509" alt="image" src="https://github.com/user-attachments/assets/40b7d8a9-305e-46e6-9367-ca196b78272d" />
 
-2. Новые ресурсы
+2. Новые ресурсы  
    <img width="620" height="176" alt="image" src="https://github.com/user-attachments/assets/9d3ad7dd-6cf2-473b-aac7-e9a3a037e09f" />
    <img width="995" height="807" alt="image" src="https://github.com/user-attachments/assets/c50c32f1-60bd-47dd-b2bc-3d316f8f7909" />
 
