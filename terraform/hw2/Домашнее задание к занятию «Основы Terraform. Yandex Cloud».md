@@ -116,6 +116,17 @@
 
 # Задание 7
 
+1. второй элемент списка test_list  
+   <img width="228" height="55" alt="image" src="https://github.com/user-attachments/assets/7e5feb85-37e6-4574-b43f-eb3ad348e4cd" />  
+
+2. длина списка test_list  
+   <img width="286" height="53" alt="image" src="https://github.com/user-attachments/assets/5dd7ee90-b5a0-44f0-a6b7-c673e1db22bd" />
+
+3. значение ключа admin из map test_map  
+   <img width="292" height="56" alt="image" src="https://github.com/user-attachments/assets/97818e29-af19-4433-b402-01b8030f4e63" />
+
+4. interpolation-выражение  
+   <img width="1267" height="135" alt="image" src="https://github.com/user-attachments/assets/2e4b552f-d241-44e6-bbe8-a857ed889ce0" />
 
 
 
