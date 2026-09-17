@@ -140,6 +140,17 @@
 
 # Задание 9
 
+Проверка доступа в Интернет  
+<img width="1089" height="846" alt="image" src="https://github.com/user-attachments/assets/66b85077-af90-47cc-b103-a69f86b49747" />  
+  
+<img width="1132" height="1093" alt="image" src="https://github.com/user-attachments/assets/3713c5bd-626c-4601-bf68-7236f310a8b9" />  
+
+Отсутствие внешнего адреса  
+<img width="1160" height="213" alt="image" src="https://github.com/user-attachments/assets/d1552c7b-fb96-410e-867d-8103f9e16f29" />  
+
+
+
+
 
 
 
