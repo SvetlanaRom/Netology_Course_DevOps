@@ -94,17 +94,27 @@
 
 # Задание 6
 
-1. Одна переменная для ресурсов
+1. Одна переменная для ресурсов  
    <img width="452" height="600" alt="image" src="https://github.com/user-attachments/assets/2bf1d2aa-feaa-46a4-b1f2-5e5fb4814081" />
    <img width="743" height="231" alt="image" src="https://github.com/user-attachments/assets/33f1e936-d703-4ba1-b947-7c2e0c97f6ff" />
    <img width="713" height="230" alt="image" src="https://github.com/user-attachments/assets/5c5e62ae-744e-4d73-a258-8583da0a7e15" />
    
 2. Одна переменная для метаданных  
-   <img width="544" height="402" alt="image" src="https://github.com/user-attachments/assets/3fcd6e76-aad8-4538-9d3f-47bae119f0ef" />  
-   <img width="1209" height="218" alt="image" src="https://github.com/user-attachments/assets/b7d484e4-dcd5-4a93-8f1f-94887c74826c" />  
-   <img width="1184" height="175" alt="image" src="https://github.com/user-attachments/assets/8b010a41-bd51-4768-8d37-afb542996059" />  
+   <img width="670" height="457" alt="image" src="https://github.com/user-attachments/assets/9b99b746-817f-47f7-92b1-499f2256db3d" />
+   <img width="1349" height="257" alt="image" src="https://github.com/user-attachments/assets/4b75cb72-7d4e-4110-971a-218abf6d4e16" />
+   <img width="1344" height="222" alt="image" src="https://github.com/user-attachments/assets/44cdbab5-1767-434d-8d80-8d50c4ba39f9" />  
 
-3. 
+4. Комментирование неиспользуемых переменных  
+   <img width="539" height="157" alt="image" src="https://github.com/user-attachments/assets/bc503fd2-b5ed-479d-a084-f3c5c7ad3855" />  
+   <img width="507" height="259" alt="image" src="https://github.com/user-attachments/assets/4ee2ae9b-17a5-42db-b8f6-06a5e149f86a" />  
+   <img width="477" height="324" alt="image" src="https://github.com/user-attachments/assets/a3edbbd6-6ca7-4b67-b85d-5304df6bbcba" />  
+   <img width="547" height="267" alt="image" src="https://github.com/user-attachments/assets/89351756-a82e-4713-976d-08d86057d3d2" />  
+   <img width="540" height="318" alt="image" src="https://github.com/user-attachments/assets/dfeb964d-fca1-44c9-8671-6556b6d57414" />  
+ 
+5. terraform plan  
+   <img width="1200" height="290" alt="image" src="https://github.com/user-attachments/assets/7e358cc7-c09d-47f0-bfe8-f90aef847afd" />
+
+# Задание 7
 
 
 
