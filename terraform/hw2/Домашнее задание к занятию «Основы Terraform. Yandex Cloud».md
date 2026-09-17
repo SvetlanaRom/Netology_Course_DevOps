@@ -81,7 +81,7 @@
 
 # Задание 5
 
-1. locals
+1. locals  
    <img width="671" height="124" alt="image" src="https://github.com/user-attachments/assets/36ff5562-bb20-443e-8de2-29dc47365073" />
 
 2. Смена переменных на local-переменные  
