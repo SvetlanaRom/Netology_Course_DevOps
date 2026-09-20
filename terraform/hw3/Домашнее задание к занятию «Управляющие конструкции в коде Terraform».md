@@ -16,10 +16,10 @@
    <img width="494" height="90" alt="image" src="https://github.com/user-attachments/assets/09f8ef5f-c68a-47e0-ae19-30d18434fcd1" />
    <img width="1142" height="211" alt="image" src="https://github.com/user-attachments/assets/02baa1b9-1030-46b3-abec-dccda36b3878" />
    
-3. depends_on
+3. depends_on  
    <img width="609" height="56" alt="image" src="https://github.com/user-attachments/assets/aa5770d0-ffa3-4b0c-828e-2a4f6e90ddfc" />
 
-4. file в local-переменной
+4. file в local-переменной  
    <img width="617" height="92" alt="image" src="https://github.com/user-attachments/assets/15b4dc90-2113-47cb-8c80-4269c1a72dfe" />
    <img width="923" height="130" alt="image" src="https://github.com/user-attachments/assets/ae429c3d-a327-453b-aff7-3ab1459d76e9" />
 
