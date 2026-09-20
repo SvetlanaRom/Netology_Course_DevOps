@@ -28,7 +28,7 @@
 
 # Задание 3
 
-1. Три диска
+1. Три диска  
    <img width="735" height="173" alt="image" src="https://github.com/user-attachments/assets/2454945e-0588-404f-ad0e-d2e3a2800793" />
    <img width="749" height="662" alt="image" src="https://github.com/user-attachments/assets/796bdbe7-de1b-4eba-9cc7-f39d4e640ee9" />
    <img width="1002" height="268" alt="image" src="https://github.com/user-attachments/assets/0b3b3966-3ffc-4076-a358-ef8cb8d14050" />  
