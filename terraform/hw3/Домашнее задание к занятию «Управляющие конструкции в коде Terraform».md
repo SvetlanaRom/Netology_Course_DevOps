@@ -92,6 +92,10 @@ hosts.ini
    <img width="1355" height="797" alt="image" src="https://github.com/user-attachments/assets/7b75ee7c-6713-469b-845f-afd52051706e" />
 
 
+Ссылка на итоговый код: https://github.com/SvetlanaRom/terraform_hw/tree/060e50ec61f2961acd09eb6a05955bfc6d57745d/03/src  
+В заданиях было сказано сделать отдельную ветку terraform-03, я сделала, но они идентичные с master  
+Ссылка:https://github.com/SvetlanaRom/terraform_hw/tree/terraform-03/03/src
+
 
 
 
