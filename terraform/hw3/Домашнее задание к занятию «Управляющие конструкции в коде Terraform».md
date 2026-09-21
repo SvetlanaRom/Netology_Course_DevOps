@@ -49,6 +49,16 @@ hosts.ini
 
 # Задание 5 
 
+<img width="779" height="430" alt="image" src="https://github.com/user-attachments/assets/1c4753bc-a374-4cb8-955c-37d2bf12ed7c" />  
+
+<img width="765" height="683" alt="image" src="https://github.com/user-attachments/assets/65e2b7a6-5cd9-4da8-acf9-9d6087e6df51" />  
+
+# Задание 6
+
+
+
+
+
 
 
 
