@@ -65,9 +65,18 @@ hosts.ini
    <img width="1125" height="1002" alt="image" src="https://github.com/user-attachments/assets/80a503c0-1b43-4704-a6d6-c0bbc809eea3" />
    <img width="1023" height="358" alt="image" src="https://github.com/user-attachments/assets/167878a1-d8fe-49b1-ac9b-118943ce323e" />
 
+   P.S. triggers в resource "local_sensitive_file" "ansible_secrets" я после этого задания закомментила, чтоб быстрее terraform apply отрабатывал. 
+
 # Задание 7
 
+Задала переменную  
+<img width="514" height="495" alt="image" src="https://github.com/user-attachments/assets/1911bb9c-eae4-4f75-8712-6d1e5c78782a" />  
+
+Выражение  
+<img width="856" height="445" alt="image" src="https://github.com/user-attachments/assets/d889aa4b-9245-4fd3-9b54-4b7f827688e0" />
+
 # Задание 8
+
 Ошибка допущена: после ["nat_ip_address"] не было закрываюшей фигурной скобки   
 + для красоты после platform_id убрала лишний пробел и в конце ]}} последняя закрывающая скобка оказалась лишней, хотя на это terraform уже не ругался.
 
