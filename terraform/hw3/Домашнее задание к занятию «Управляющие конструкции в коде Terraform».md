@@ -6,14 +6,14 @@
 
 1. Две ВМ с именами web-1 и web-2  
    <img width="634" height="118" alt="image" src="https://github.com/user-attachments/assets/dcc4397d-acdf-44f3-bee8-8d3609843808" />
-   <img width="482" height="94" alt="image" src="https://github.com/user-attachments/assets/6326f907-4a14-4416-90eb-27aef330a7f2" />
-   <img width="733" height="150" alt="image" src="https://github.com/user-attachments/assets/90ffb421-41a4-4e60-89c4-aa679323e3cb" />
+   <img width="470" height="83" alt="image" src="https://github.com/user-attachments/assets/378f369d-166c-4070-8c9e-a4fba1547e4a" />  
+   <img width="723" height="145" alt="image" src="https://github.com/user-attachments/assets/216fa630-915e-4258-91e9-323a9820d2c2" />  
    <img width="1200" height="152" alt="image" src="https://github.com/user-attachments/assets/c9bcdf6c-dceb-48d6-9cb7-1f7e562cbc4e" />
    <img width="1094" height="335" alt="image" src="https://github.com/user-attachments/assets/a165b5d5-857c-48a6-b882-c41061fd6595" />
 
 2. Две ВМ для БД  
    <img width="756" height="396" alt="image" src="https://github.com/user-attachments/assets/7910c2f1-73c3-4ed0-8f68-27c3499116f6" />
-   <img width="494" height="90" alt="image" src="https://github.com/user-attachments/assets/09f8ef5f-c68a-47e0-ae19-30d18434fcd1" />
+   <img width="427" height="83" alt="image" src="https://github.com/user-attachments/assets/8bb9ba14-8628-4752-be9e-408763be3c0d" />  
    <img width="1142" height="211" alt="image" src="https://github.com/user-attachments/assets/02baa1b9-1030-46b3-abec-dccda36b3878" />
    
 3. depends_on  
@@ -30,7 +30,7 @@
 
 1. Три диска  
    <img width="735" height="173" alt="image" src="https://github.com/user-attachments/assets/2454945e-0588-404f-ad0e-d2e3a2800793" />
-   <img width="749" height="662" alt="image" src="https://github.com/user-attachments/assets/796bdbe7-de1b-4eba-9cc7-f39d4e640ee9" />
+   <img width="768" height="653" alt="image" src="https://github.com/user-attachments/assets/6a7dad2a-cbe5-43a1-90ee-0e3300f7ac75" />  
    <img width="1002" height="268" alt="image" src="https://github.com/user-attachments/assets/0b3b3966-3ffc-4076-a358-ef8cb8d14050" />  
 
 2. Один storage
