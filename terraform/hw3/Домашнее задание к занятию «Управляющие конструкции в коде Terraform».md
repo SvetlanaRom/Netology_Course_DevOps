@@ -37,6 +37,20 @@
    <img width="1170" height="383" alt="image" src="https://github.com/user-attachments/assets/05d38c87-2516-4b07-adb6-91cf785fa5be" />
 
 # Задание 4
+  
+ansible.tf  
+<img width="779" height="631" alt="image" src="https://github.com/user-attachments/assets/4a926740-392d-4edd-af16-0cac97736c6f" />  
+
+hosts.tftpl  
+<img width="1116" height="641" alt="image" src="https://github.com/user-attachments/assets/09c3cdbf-48c1-4e7b-b40c-6bf86bb72494" />  
+
+hosts.ini  
+<img width="1015" height="349" alt="image" src="https://github.com/user-attachments/assets/a80e04ce-0fab-497f-b54f-3a9646f701f4" />  
+
+# Задание 5 
+
+
+
 
 
    
