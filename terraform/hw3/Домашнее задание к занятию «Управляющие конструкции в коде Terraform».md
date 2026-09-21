@@ -85,6 +85,12 @@ hosts.ini
 
 # Задание 9
 
+1. ["rc01","rc02","rc03","rc04",rc05","rc06",rc07","rc08","rc09","rc10....."rc99"]  
+   <img width="664" height="561" alt="image" src="https://github.com/user-attachments/assets/6cded7d5-c521-4c94-b23d-f310247079d0" />  
+
+2. ["rc01","rc02","rc03","rc04",rc05","rc06","rc11","rc12","rc13","rc14",rc15","rc16","rc19"....."rc96"]  
+   <img width="1355" height="797" alt="image" src="https://github.com/user-attachments/assets/7b75ee7c-6713-469b-845f-afd52051706e" />
+
 
 
 
