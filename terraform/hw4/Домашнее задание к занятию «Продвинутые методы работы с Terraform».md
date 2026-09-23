@@ -1,7 +1,7 @@
 # Задание 1
 
 1. Переменная для ssh
-   <img width="479" height="235" alt="image" src="https://github.com/user-attachments/assets/1d7dcbda-d371-4fb9-a93c-f42848c7d6ae" />
+   <img width="454" height="234" alt="image" src="https://github.com/user-attachments/assets/5aade1d9-05eb-435d-aaee-a6f352bd05e8" />
 
    ssh-ключ в функции template_file в блоке vars ={}  
    <img width="706" height="214" alt="image" src="https://github.com/user-attachments/assets/ec320c03-94b9-4f4f-a431-e1f4aa3c111b" />
