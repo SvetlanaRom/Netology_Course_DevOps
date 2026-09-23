@@ -1,6 +1,6 @@
 # Задание 1
 
-1. Переменная для ssh
+1. Переменная для ssh  
    <img width="454" height="234" alt="image" src="https://github.com/user-attachments/assets/5aade1d9-05eb-435d-aaee-a6f352bd05e8" />
 
    ssh-ключ в функции template_file в блоке vars ={}  
