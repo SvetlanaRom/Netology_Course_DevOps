@@ -130,7 +130,15 @@
 
 # Задание 6
 
+Создание бакета
+<img width="795" height="412" alt="image" src="https://github.com/user-attachments/assets/07f48740-a1e0-4556-9f00-fa76c1de73f4" />  
+<img width="211" height="271" alt="image" src="https://github.com/user-attachments/assets/d752cc18-4009-40c1-8c41-157066438992" />  
+<img width="693" height="237" alt="image" src="https://github.com/user-attachments/assets/377888c5-e5a0-4f36-b553-fb34bacc4304" />  
 
+Яндекс
+<img width="1615" height="289" alt="image" src="https://github.com/user-attachments/assets/1daea4b8-2d68-48b2-857c-d5c8aa80a55f" />
+
+# Задание 7
 
 
 
