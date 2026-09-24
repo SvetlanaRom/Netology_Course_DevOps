@@ -152,11 +152,36 @@
    <img width="920" height="362" alt="image" src="https://github.com/user-attachments/assets/418abbad-f3de-425c-9ad5-41190e07a9a0" />
 
 4. output  
-   <img width="999" height="217" alt="image" src="https://github.com/user-attachments/assets/bff1984c-6e37-4f39-ae36-39a1b5e44cb3" />
+   <img width="328" height="147" alt="image" src="https://github.com/user-attachments/assets/10e80a59-529d-4875-8e1f-105e452a5d0d" />
+   <img width="824" height="81" alt="image" src="https://github.com/user-attachments/assets/c6dbc1a2-8f1a-4894-8dc9-cc0b96168123" />
 
-5. 
+5. добавление пароля в vault
+   <img width="603" height="210" alt="image" src="https://github.com/user-attachments/assets/de1e8f2b-a476-4c09-bbeb-2e75d09baf0c" />
+   <img width="1022" height="383" alt="image" src="https://github.com/user-attachments/assets/a91bf8d9-3c53-4d5b-aff3-5e8889f9bd3d" />
 
+# Задание 8
 
-
-
-
+Создала src/vpc-root, там создала файлы providers.tf, variables.tf, main.tf, outputs.tf, personal.auto.tfvars
+<img width="208" height="295" alt="image" src="https://github.com/user-attachments/assets/83732ca4-17ad-43a1-a3ac-6bc6d54c4e7a" />  
+  
+Отдельно укажу только outputs.tf, так как этот файл специально создан для того, что передать данные в другой root-модуль  
+<img width="614" height="219" alt="image" src="https://github.com/user-attachments/assets/95bb5806-5f7e-487a-9919-ec1aedbced9b" />  
+  
+Создала src/vm-root, там создала файлы providers.tf, variables.tf, main.tf, personal.auto.tfvars, cloud-init.yml, id_ed25519.pub, remote.tf.  
+<img width="232" height="369" alt="image" src="https://github.com/user-attachments/assets/5f63bc3d-b73b-4e89-8c87-99cf9a7ccccb" />  
+  
+Отдельно укажу только remote.tf, так как именно он был создан для чтения удаленного state.  
+<img width="878" height="346" alt="image" src="https://github.com/user-attachments/assets/58cb3e2f-10ef-41b6-9687-7b5e9032a838" />  
+  
+Инициализация в каждом новом root module  
+<img width="905" height="277" alt="image" src="https://github.com/user-attachments/assets/df9c11f3-30f5-4ffa-86e5-d97d77f6aba7" />  
+<img width="889" height="272" alt="image" src="https://github.com/user-attachments/assets/4ce1baf5-a4d4-4022-a9ca-b296805e8aa1" />  
+  
+Запуск кода в каждом из модулей  
+<img width="923" height="291" alt="image" src="https://github.com/user-attachments/assets/405698a9-354d-4241-aa8e-406f5b29b54c" />   
+<img width="1154" height="254" alt="image" src="https://github.com/user-attachments/assets/a4033fd6-163f-40a8-a335-0e896e1d3257" />  
+  
+Яндекс  
+<img width="1441" height="292" alt="image" src="https://github.com/user-attachments/assets/92685dbc-f4ea-47f7-b88b-0310f5e62d10" />  
+<img width="783" height="309" alt="image" src="https://github.com/user-attachments/assets/ac59d85c-be50-43aa-b4ba-7c91f739d367" />  
+<img width="1652" height="345" alt="image" src="https://github.com/user-attachments/assets/0acff31f-d80c-4b54-b887-57bd453fd1f5" />
