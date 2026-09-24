@@ -74,5 +74,30 @@
 
 # Задание 4
 
+Измененный модуль vpc
+<img width="1176" height="783" alt="image" src="https://github.com/user-attachments/assets/00b782d4-04b6-4300-a01d-88e8b2193436" />
+
+Вызов модуля 
+<img width="695" height="585" alt="image" src="https://github.com/user-attachments/assets/d96920ad-8955-4d6f-ae04-cdcf38008759" />  
+
+Данные для подсетей брала из примера  
+<img width="665" height="606" alt="image" src="https://github.com/user-attachments/assets/1b55ae64-2820-4847-af66-5c415ca84897" />  
+
+Предыдущую инфраструктуру я удалила для упрощения задачи, поэтому в плане создается все заново  
+<img width="918" height="714" alt="image" src="https://github.com/user-attachments/assets/599b04b6-77e0-4122-8350-5991c16fcb7c" />  
+
+Яндекс. Создано 3 ВМ, 1 сеть и 4 подсети. 
+<img width="1462" height="284" alt="image" src="https://github.com/user-attachments/assets/3c266115-b5e2-49e1-8a56-777f9296759a" />  
+<img width="1767" height="286" alt="image" src="https://github.com/user-attachments/assets/4502fe73-f22f-475c-ad22-a216a2e05fff" />  
+<img width="1632" height="398" alt="image" src="https://github.com/user-attachments/assets/524e2bc2-915a-495c-a9eb-4e0b67e5ee47" />  
+
+# Задание 5
+
+
+
+
+
+
+
 
 
