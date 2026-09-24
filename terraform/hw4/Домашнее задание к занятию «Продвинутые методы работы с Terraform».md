@@ -93,39 +93,39 @@
 
 # Задание 5
 
-1. модуль для создания кластера managed БД Mysql в Yandex Cloud
+1. модуль для создания кластера managed БД Mysql в Yandex Cloud  
    <img width="766" height="576" alt="image" src="https://github.com/user-attachments/assets/c6fa03f0-5e43-49cd-a4cb-70ce1537175f" />
 
-   Вызов модуля + создание сети для него
+   Вызов модуля + создание сети для него  
    <img width="648" height="470" alt="image" src="https://github.com/user-attachments/assets/1f37312b-ef5d-4cd9-b1d1-6ebb1411a7d1" />
 
-   Созданный кластер в Яндекс
+   Созданный кластер в Яндекс  
    <img width="1334" height="357" alt="image" src="https://github.com/user-attachments/assets/dff533e4-db15-4a73-8a3a-3da149383dab" />  
 
-2. модуль для создания базы данных и пользователя в уже существующем кластере managed БД Mysql
+2. модуль для создания базы данных и пользователя в уже существующем кластере managed БД Mysql  
    <img width="682" height="502" alt="image" src="https://github.com/user-attachments/assets/24a19032-9477-4386-a8b1-2f77ee8d0f1f" />
 
-   Вызов модуля
+   Вызов модуля  
    <img width="663" height="213" alt="image" src="https://github.com/user-attachments/assets/bf88ad46-f48b-4de3-abfc-d2318a83aa82" />
 
-   Яндекс
+   Яндекс  
    <img width="902" height="283" alt="image" src="https://github.com/user-attachments/assets/33c43afc-c389-4d46-9ee1-13bf74c2f40b" />
    <img width="841" height="291" alt="image" src="https://github.com/user-attachments/assets/a2bc95ff-f4d0-4c68-8362-c996742b413b" />
 
-3. Это кластер с HA=false
+3. Это кластер с HA=false  
    <img width="739" height="469" alt="image" src="https://github.com/user-attachments/assets/88026122-40af-478f-aa57-a255e169bc24" />
    <img width="1332" height="796" alt="image" src="https://github.com/user-attachments/assets/8cbf414c-c3d1-48d7-9071-d03ee8d78462" />
 
-   Яндекс
+   Яндекс  
    <img width="1210" height="211" alt="image" src="https://github.com/user-attachments/assets/800c548e-e116-400d-bddf-62ecbc6844f8" />
    <img width="1341" height="301" alt="image" src="https://github.com/user-attachments/assets/0f240028-75b6-4885-9e45-15c20b5c48c8" />
    <img width="913" height="279" alt="image" src="https://github.com/user-attachments/assets/223d2d9a-9280-4683-81ac-e3024dbfcbf3" />
    <img width="812" height="275" alt="image" src="https://github.com/user-attachments/assets/3ade96f3-e9b7-4edd-bde3-2b5b962a28a5" />
 
-   Это кластер с измененной переменной HA=true
+   Это кластер с измененной переменной HA=true  
    <img width="1326" height="819" alt="image" src="https://github.com/user-attachments/assets/1982b2a5-163e-4ee4-9241-309f30799a55" />
 
-   Яндекс
+   Яндекс  
    <img width="1338" height="374" alt="image" src="https://github.com/user-attachments/assets/af1cd36f-fef6-430e-9fd7-e665856fabd7" />
 
 # Задание 6
