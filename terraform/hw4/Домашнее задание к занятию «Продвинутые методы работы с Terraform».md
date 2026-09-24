@@ -131,8 +131,9 @@
 # Задание 6
 
 Создание бакета.   
-<img width="795" height="412" alt="image" src="https://github.com/user-attachments/assets/07f48740-a1e0-4556-9f00-fa76c1de73f4" />  
+<img width="772" height="406" alt="image" src="https://github.com/user-attachments/assets/80114ca1-cd5e-4ede-b77b-93ec3bec8bbe" />  
 <img width="211" height="271" alt="image" src="https://github.com/user-attachments/assets/d752cc18-4009-40c1-8c41-157066438992" />  
+Скопировала провайдера  
 <img width="693" height="237" alt="image" src="https://github.com/user-attachments/assets/377888c5-e5a0-4f36-b553-fb34bacc4304" />  
 <img width="1080" height="434" alt="image" src="https://github.com/user-attachments/assets/3ca96481-4105-4fff-9178-bb2892cc6cfa" />
   
@@ -144,13 +145,13 @@
 1. Запуск vault  
    <img width="868" height="134" alt="image" src="https://github.com/user-attachments/assets/a72d8215-0a3e-4126-9aef-7c2d06e2e24a" />
 
-2. Вход в ЛК
+2. Вход в ЛК  
    <img width="864" height="551" alt="image" src="https://github.com/user-attachments/assets/295b9253-3800-4f79-bb2c-b38ab58fedcd" />
 
-3. Создание секрета
+3. Создание секрета  
    <img width="920" height="362" alt="image" src="https://github.com/user-attachments/assets/418abbad-f3de-425c-9ad5-41190e07a9a0" />
 
-4. output
+4. output  
    <img width="999" height="217" alt="image" src="https://github.com/user-attachments/assets/bff1984c-6e37-4f39-ae36-39a1b5e44cb3" />
 
 5. 
