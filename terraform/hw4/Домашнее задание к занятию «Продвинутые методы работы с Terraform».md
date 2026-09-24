@@ -133,7 +133,7 @@
 Создание бакета.   
 <img width="772" height="406" alt="image" src="https://github.com/user-attachments/assets/80114ca1-cd5e-4ede-b77b-93ec3bec8bbe" />  
 <img width="211" height="271" alt="image" src="https://github.com/user-attachments/assets/d752cc18-4009-40c1-8c41-157066438992" />  
-Скопировала провайдера  
+Скопировала провайдера. Тут уже не меняла хардкодные значения на переменные, подумала, что в рамках данного задания это не обязательно, так как модуль написан другим человеком, а моя задача его только подключить.  
 <img width="693" height="237" alt="image" src="https://github.com/user-attachments/assets/377888c5-e5a0-4f36-b553-fb34bacc4304" />  
 <img width="1080" height="434" alt="image" src="https://github.com/user-attachments/assets/3ca96481-4105-4fff-9178-bb2892cc6cfa" />
   
