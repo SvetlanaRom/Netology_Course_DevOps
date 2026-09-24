@@ -31,13 +31,13 @@
 1. Локальный модуль
    <img width="1223" height="579" alt="image" src="https://github.com/user-attachments/assets/a9645cbc-dc96-4bda-b622-6cc0ab9973f2" />
 
-2. Переменные
+2. Переменные  
    <img width="538" height="691" alt="image" src="https://github.com/user-attachments/assets/cf6ab221-ea62-433a-b9bc-ad002888edb5" />
 
-3. outputs
+3. outputs  
    <img width="658" height="208" alt="image" src="https://github.com/user-attachments/assets/f3ec6730-a628-4c44-9646-5622bb24973e" />
 
-4. Заменена ресурсы yandex_vpc_network и yandex_vpc_subnet созданным модулем
+4. Заменена ресурсов yandex_vpc_network и yandex_vpc_subnet созданным модулем
    <img width="576" height="465" alt="image" src="https://github.com/user-attachments/assets/f7f7cd57-2b22-49fc-b600-3fc1df2580cb" />
    <img width="646" height="465" alt="image" src="https://github.com/user-attachments/assets/94209e10-e0d7-4381-ab97-04cab4a15732" />  
 
