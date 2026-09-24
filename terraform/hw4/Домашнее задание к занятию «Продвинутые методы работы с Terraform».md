@@ -40,11 +40,13 @@
    <img width="475" height="786" alt="image" src="https://github.com/user-attachments/assets/d1bc8f9e-fd08-4812-85c0-46c594d913d2" />
 
 4. Заменена ресурсов yandex_vpc_network и yandex_vpc_subnet созданным модулем
-   <img width="576" height="465" alt="image" src="https://github.com/user-attachments/assets/f7f7cd57-2b22-49fc-b600-3fc1df2580cb" />
+   <img width="665" height="494" alt="image" src="https://github.com/user-attachments/assets/2eef59f3-722f-41df-962d-a5e9e979360c" />  
    <img width="646" height="465" alt="image" src="https://github.com/user-attachments/assets/94209e10-e0d7-4381-ab97-04cab4a15732" />  
 
 5. документация к модулю  
    <img width="1190" height="571" alt="image" src="https://github.com/user-attachments/assets/c190274b-3d9c-4ab5-94f4-f6ca7a3b7c3f" />
 
+# Задание 3
 
+1. 
 
