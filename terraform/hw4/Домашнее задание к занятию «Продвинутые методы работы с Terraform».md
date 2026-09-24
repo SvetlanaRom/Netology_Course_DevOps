@@ -48,5 +48,31 @@
 
 # Задание 3
 
-1. 
+1. Список ресурсов
+   <img width="885" height="264" alt="image" src="https://github.com/user-attachments/assets/f3aff93b-f9be-462d-a8c1-b6baec9cd3ea" />
+
+2. Удаление модуля vpc
+   <img width="1263" height="314" alt="image" src="https://github.com/user-attachments/assets/85b92f6b-5537-4ebf-8516-bae7a504e316" />
+
+3. Удаление модуля vm  
+   <img width="1260" height="525" alt="image" src="https://github.com/user-attachments/assets/10babba0-dfcb-467a-8134-d7bd76348094" />
+   <img width="870" height="53" alt="image" src="https://github.com/user-attachments/assets/c6a34e83-1b5c-4645-b98e-e55666ffbb02" />
+
+4. import
+   <img width="872" height="148" alt="image" src="https://github.com/user-attachments/assets/564096fa-614f-4dc3-b605-902c3a48b0a2" />
+   <img width="1259" height="472" alt="image" src="https://github.com/user-attachments/assets/b12a764b-f4be-4780-b610-a314d9d83c42" />
+   <img width="1209" height="187" alt="image" src="https://github.com/user-attachments/assets/b8bed96c-cece-47d7-8dbd-ec0ba8dd5ca3" />
+   <img width="1255" height="477" alt="image" src="https://github.com/user-attachments/assets/1d442073-96a7-449e-a5d8-e39bb5dfdf25" />
+   <img width="1261" height="491" alt="image" src="https://github.com/user-attachments/assets/b4181b2c-baa0-4f15-a9fb-049d39952f37" />
+   <img width="1122" height="217" alt="image" src="https://github.com/user-attachments/assets/8ba55ae6-ec44-4775-a6d3-58b67b437104" />
+   <img width="1258" height="475" alt="image" src="https://github.com/user-attachments/assets/3a3640ee-7efb-443a-975e-7e39733365f9" />
+   <img width="1261" height="491" alt="image" src="https://github.com/user-attachments/assets/67e9e0c8-9000-49df-8cb6-9b035722a1f7" />
+   <img width="1261" height="479" alt="image" src="https://github.com/user-attachments/assets/39917678-b3fb-4399-9102-cbd02d018547" />
+   <img width="944" height="809" alt="image" src="https://github.com/user-attachments/assets/ea2fe83d-ec15-4ee6-bbd1-9e4bcfc9813b" />
+   <img width="1192" height="319" alt="image" src="https://github.com/user-attachments/assets/78011909-2668-4795-99b4-fef148142e3d" />
+   <img width="862" height="260" alt="image" src="https://github.com/user-attachments/assets/61082858-027b-4088-8b9d-c471e09555c4" />
+
+# Задание 4
+
+
 
