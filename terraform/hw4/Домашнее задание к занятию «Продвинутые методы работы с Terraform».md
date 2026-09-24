@@ -32,15 +32,19 @@
    <img width="1223" height="579" alt="image" src="https://github.com/user-attachments/assets/a9645cbc-dc96-4bda-b622-6cc0ab9973f2" />
 
 2. Переменные  
-   <img width="538" height="691" alt="image" src="https://github.com/user-attachments/assets/cf6ab221-ea62-433a-b9bc-ad002888edb5" />
+   <img width="583" height="666" alt="image" src="https://github.com/user-attachments/assets/381d3ea3-543a-4781-a8f4-39309739cf5a" />
 
 3. outputs  
-   <img width="658" height="208" alt="image" src="https://github.com/user-attachments/assets/f3ec6730-a628-4c44-9646-5622bb24973e" />
+   <img width="1240" height="290" alt="image" src="https://github.com/user-attachments/assets/6ffcb6cf-12f2-4e8c-a7b0-4dcf78728a71" />
+   terraform console  
+   <img width="475" height="786" alt="image" src="https://github.com/user-attachments/assets/d1bc8f9e-fd08-4812-85c0-46c594d913d2" />
 
 4. Заменена ресурсов yandex_vpc_network и yandex_vpc_subnet созданным модулем
    <img width="576" height="465" alt="image" src="https://github.com/user-attachments/assets/f7f7cd57-2b22-49fc-b600-3fc1df2580cb" />
    <img width="646" height="465" alt="image" src="https://github.com/user-attachments/assets/94209e10-e0d7-4381-ab97-04cab4a15732" />  
 
+5. документация к модулю  
+   <img width="1190" height="571" alt="image" src="https://github.com/user-attachments/assets/c190274b-3d9c-4ab5-94f4-f6ca7a3b7c3f" />
 
-6. 
+
 
