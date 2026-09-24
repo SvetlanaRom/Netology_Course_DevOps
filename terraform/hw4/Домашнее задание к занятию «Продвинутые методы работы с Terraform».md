@@ -96,7 +96,7 @@
 1. модуль для создания кластера managed БД Mysql в Yandex Cloud  
    <img width="766" height="576" alt="image" src="https://github.com/user-attachments/assets/c6fa03f0-5e43-49cd-a4cb-70ce1537175f" />
 
-   Вызов модуля + создание сети для него  
+   Вызов модуля + создание сети для него. Тут я уже поздно заметила, что create_network захардкоден. В проекте изменила на переменную, а вот скрин переделывать не с руки, тк я это заметила только после 8ого задания, а к тому моменту эта часть кода уже была закомменчена.   
    <img width="648" height="470" alt="image" src="https://github.com/user-attachments/assets/1f37312b-ef5d-4cd9-b1d1-6ebb1411a7d1" />
 
    Созданный кластер в Яндекс  
