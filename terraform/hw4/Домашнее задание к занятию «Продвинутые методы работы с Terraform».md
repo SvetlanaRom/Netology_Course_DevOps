@@ -161,7 +161,7 @@
 
 # Задание 8
 
-Создала src/vpc-root, там создала файлы providers.tf, variables.tf, main.tf, outputs.tf, personal.auto.tfvars
+Создала src/vpc-root, там создала файлы providers.tf, variables.tf, main.tf, outputs.tf, personal.auto.tfvars  
 <img width="208" height="295" alt="image" src="https://github.com/user-attachments/assets/83732ca4-17ad-43a1-a3ac-6bc6d54c4e7a" />  
   
 Отдельно укажу только outputs.tf, так как этот файл специально создан для того, что передать данные в другой root-модуль  
