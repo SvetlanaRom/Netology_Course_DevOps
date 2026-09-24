@@ -187,3 +187,6 @@
 <img width="1441" height="292" alt="image" src="https://github.com/user-attachments/assets/92685dbc-f4ea-47f7-b88b-0310f5e62d10" />  
 <img width="783" height="309" alt="image" src="https://github.com/user-attachments/assets/ac59d85c-be50-43aa-b4ba-7c91f739d367" />  
 <img width="1652" height="345" alt="image" src="https://github.com/user-attachments/assets/0acff31f-d80c-4b54-b887-57bd453fd1f5" />
+
+Итоговый код: https://github.com/SvetlanaRom/terraform_hw/tree/5a59466ef1451b1c4903f96438fa3dfb7c0d3566/04/src  
+
