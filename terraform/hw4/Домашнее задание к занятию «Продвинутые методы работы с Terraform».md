@@ -77,8 +77,8 @@
 Измененный модуль vpc  
 <img width="1176" height="783" alt="image" src="https://github.com/user-attachments/assets/00b782d4-04b6-4300-a01d-88e8b2193436" />
 
-Вызов модуля  
-<img width="695" height="585" alt="image" src="https://github.com/user-attachments/assets/d96920ad-8955-4d6f-ae04-cdcf38008759" />  
+Вызов модуля 
+<img width="839" height="690" alt="image" src="https://github.com/user-attachments/assets/7f5c7bd8-e61c-4e79-af3e-ffd8b5b2b49d" />  
 
 Данные для подсетей брала из примера  
 <img width="665" height="606" alt="image" src="https://github.com/user-attachments/assets/1b55ae64-2820-4847-af66-5c415ca84897" />  
