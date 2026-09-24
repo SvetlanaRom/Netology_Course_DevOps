@@ -172,6 +172,8 @@
   
 Отдельно укажу только remote.tf, так как именно он был создан для чтения удаленного state.  
 <img width="878" height="346" alt="image" src="https://github.com/user-attachments/assets/58cb3e2f-10ef-41b6-9687-7b5e9032a838" />  
+    
+Сначала была выполнена инициализация и запуск кода в src/vpc-root, а потом в src/vm-root, чтобы соблюсти зависимости.   
   
 Инициализация в каждом новом root module  
 <img width="905" height="277" alt="image" src="https://github.com/user-attachments/assets/df9c11f3-30f5-4ffa-86e5-d97d77f6aba7" />  
